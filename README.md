@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iammadanlal
+- 👋 Hi, I’m @iammadanlal. Also if you want to see my [old github id](https://github.com/NorinMp143)
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning ruby-on-rails
 - 💞️ I’m looking to collaborate on built-in javascript framework
